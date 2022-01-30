@@ -1,9 +1,9 @@
-theme: "hugo-apero"
+theme: "starter-hugo-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-# "starter-hugo-academic"
+
 title: Samueljvs # Website name
 baseurl: 'https://samueljvs.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
