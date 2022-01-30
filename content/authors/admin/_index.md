@@ -1,5 +1,5 @@
 ---
-bio:  Through a love of learning, I naturally found my way to data science and R soon after starting my career within the public sector. Since then, I've seen how data and insights help shape and inform on public sector policy. Some of my best work has been through collaboration with colleagues and stakeholders. Such as working closely with policy analyst on policy costings, and providing recommendations in-line with policy proposals. I've had the fortunate opportunity to work with colleagues both domestically across government, and with like-minded peers across the world (Canada, Chile and Mexico), and meaningfully engage in multilateral organisations like the OECD. I'm continually developing and refining data visualisation best practices, and I'm keen to deepen my experience.
+bio: Through a love of learning, I naturally found my way to data science and R soon after starting my career within the public sector. Since then, I've seen how data and insights help shape and inform on public sector policy. Some of my best work has been through collaboration with colleagues and stakeholders. Such as working closely with policy analyst on policy costings, and providing recommendations in-line with policy proposals. I've had the fortunate opportunity to work with colleagues both domestically across government, and with like-minded peers across the world (Canada, Chile and Mexico), and meaningfully engage in multilateral organisations like the OECD. I'm continually developing and refining data visualisation best practices, and I'm keen to deepen my experience.
 education:
   courses:
   - course: Masters of Economics, with distinction
@@ -33,6 +33,6 @@ superuser: true
 title: Sam Verevis
 ---
 
-
+Through a love of learning, I naturally found my way to data science and R soon after starting my career within the public sector. Since then, I've seen how data and insights help shape and inform on public sector policy. Some of my best work has been through collaboration with colleagues and stakeholders. Such as working closely with policy analyst on policy costings, and providing recommendations in-line with policy proposals. I've had the fortunate opportunity to work with colleagues both domestically across government, and with like-minded peers across the world (Canada, Chile and Mexico), and meaningfully engage in multilateral organisations like the OECD. I'm continually developing and refining data visualisation best practices, and I'm keen to deepen my experience.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
