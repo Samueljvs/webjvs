@@ -17,7 +17,7 @@ image:
 projects: []
 links:
  - icon_pack: custom
-    icon: datacamp-brand
+    icon: assets/media/icons/datacamp-brand
     name: Datacamp
     url: https://app.datacamp.com/learn/competitions/russian-alcohol-promotions
 ---

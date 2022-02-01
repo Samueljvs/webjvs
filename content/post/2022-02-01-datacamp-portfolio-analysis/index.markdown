@@ -16,7 +16,7 @@ image:
 projects: []
 links:
  - icon_pack: custom
-    icon: datacamp-brand
+    icon: assets/media/icons/datacamp-brand
     name: Datacamp
     url: https://app.datacamp.com/workspace/w/b4d8a09a-db18-40e4-9d74-f0b15ad38934
 
