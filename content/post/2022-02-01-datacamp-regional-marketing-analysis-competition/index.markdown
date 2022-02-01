@@ -11,10 +11,9 @@ authors: []
 lastmod: '2022-02-01T15:10:08+13:00'
 featured: no
 image:
-  placement: 1
   caption: ''
   focal_point: 'Left'
-  preview_only: no
+  preview_only: yes
 projects: []
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
