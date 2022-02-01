@@ -45,7 +45,7 @@ links:
 Consumers habits, on average, across Russia have been changing over time vis-a-vis the consumption of beer, wine, vodka, champagne and brandy (Figure 1). Since 1998, beer had the highest per capita consumption in litres (on average 20 L per person), following this had been vodka (average 12 L per person), then wine (3 L), champagne (1 L), and brandy (0.3 L). Over time, consumption in beer has risen substantially to an average 66 L per person in 2012, then falling to an average of 49 L per capita in 2016. Vodka has steadily declined in consumption over time to about half that of 1998 per capita consumption levels (7 L).  Whereas wine has increased almost 100% since 1998, going from an average of 3 L to 6 L, per person, surpassing Vodka. Brandy and Champagne are not heavily consumed across Russia, and at present 0.7 L and 1 L per capita was consumed in 2016. 
 
 
-<div class="figure">
+<div class="figure" float="left">
 <p class="caption">Figure 1: Figure 1: Average consumption trends across Russia</p><img src="{{< blogdown/postref >}}index_files/figure-html/chart-1-1.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/chart-1-2.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /></div>
 
 Despite the aggregate trend, these consumption patterns vary across all 84 regions of Russia. Saint Petersburg, whose success from the wine promotion, closely follows aggregate consumption trends for Russia trend (Figure 2). That is, a rise and fall in per capita beer consumption, alongside steadily increasing in wine consumption (Figure 2). 
