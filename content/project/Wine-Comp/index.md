@@ -1,19 +1,15 @@
 ---
 title: Hakuna Moscato. It means drink wine - A targeted approach to regional wine promotions
-author: ''
+author: 'Sam Verevis'
 date: '2022-02-02'
 categories: ["R"]
 tags: ["Rmarkdown", "Cluster Analysis", "Marketing Insights"]
 subtitle: ''
 summary: 'Datacamp project'
-authors: ["Sam Verevis"]
 lastmod: '2022-02-01T11:56:11+13:00'
-featured: no
 image:
   caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+  focal_point: Smart
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
 <link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
