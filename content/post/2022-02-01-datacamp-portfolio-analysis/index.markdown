@@ -14,6 +14,11 @@ image:
   focal_point: ''
   preview_only: yes
 projects: []
+links:
+  - icon_pack: custom
+    icon: assets/media/icons/brands/datacamp-brand
+    name: Datacamp
+    url: 'https://app.datacamp.com/workspace/w/b4d8a09a-db18-40e4-9d74-f0b15ad38934'
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
 <link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
