@@ -8,13 +8,18 @@ subtitle: ''
 summary: 'Datacamp project'
 lastmod: '2022-02-01T11:56:11+13:00'
 image:
+  placement: 1
   caption: ''
-  focal_point: Smart
+  focal_point: "Right"
+links:
+  - icon_pack: custom
+    icon: assets/media/icons/datacamp-brand
+    url:  https://app.datacamp.com/workspace/w/9fe41f5d-25aa-44cf-9046-11c7aba12587 
 ---
-<script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
-<link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
-<script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
-<link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+<link href="/rmarkdown-libs/lightable/lightable.css" rel="stylesheet" />
 
 
 
@@ -36,13 +41,13 @@ Consumers habits, on average, across Russia have been changing over time vis-a-v
 
 
 <div class="figure">
-<p class="caption">Figure 1: Figure 1: Average consumption trends across Russia</p><img src="{{< blogdown/postref >}}index_files/figure-html/chart-1-1.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/chart-1-2.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /></div>
+<p class="caption">Figure 1: Figure 1: Average consumption trends across Russia</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/chart-1-1.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/chart-1-2.png" alt="Figure 1: Average consumption trends across Russia" width="50%" /></div>
 
 Despite the aggregate trend, these consumption patterns vary across all 84 regions of Russia. Saint Petersburg, whose success from the wine promotion, closely follows aggregate consumption trends for Russia trend (Figure 2). That is, a rise and fall in per capita beer consumption, alongside steadily increasing in wine consumption (Figure 2). 
 
 
 <div class="figure">
-<p class="caption">Figure 2: Figure 2: Consumption trends across Saint Petersburg</p><img src="{{< blogdown/postref >}}index_files/figure-html/chart-2-1.png" alt="Figure 2: Consumption trends across Saint Petersburg" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/chart-2-2.png" alt="Figure 2: Consumption trends across Saint Petersburg" width="50%" /></div>
+<p class="caption">Figure 2: Figure 2: Consumption trends across Saint Petersburg</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/chart-2-1.png" alt="Figure 2: Consumption trends across Saint Petersburg" width="50%" /><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/chart-2-2.png" alt="Figure 2: Consumption trends across Saint Petersburg" width="50%" /></div>
 
 ## Read betweeen the Wines - establishing a meaningful relationship
 
@@ -61,7 +66,7 @@ Comparing Saint Petersburg against other regions wine and beer consumption, seve
 * One obvious outlier is beer consumption per capita for Zabaykalsky Krai; reaching the heights of 207 L in 2006, this amounts to 6 L of beer per day, per person.
 
 <div class="figure">
-<p class="caption">Figure 3: Figure 3: Wine and beer consumption, regional comparisons</p><img src="{{< blogdown/postref >}}index_files/figure-html/wine-vs-beer-1.png" alt="Figure 3: Wine and beer consumption, regional comparisons" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/wine-vs-beer-2.png" alt="Figure 3: Wine and beer consumption, regional comparisons" width="50%" /></div>
+<p class="caption">Figure 3: Figure 3: Wine and beer consumption, regional comparisons</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/wine-vs-beer-1.png" alt="Figure 3: Wine and beer consumption, regional comparisons" width="50%" /><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/wine-vs-beer-2.png" alt="Figure 3: Wine and beer consumption, regional comparisons" width="50%" /></div>
 
 
 Notwithstanding the chaos of Figures 3 & 4, a pattern of substitutability of beer and wine emerges, and is a salient feature for Saint Petersburg beer and wine consumption. substitutability might be more prevalent in Saint Petersbrug, as a major Russian port, might be more sensitive to prices changes and choices for beer and wine, thereby having a greater impact on consumer choices. Inland regions within Russia may be less sensitive to prices, as they have less to choose from, and likely faces higher (possibly fixed) costs.
@@ -75,7 +80,7 @@ There are also other regional trends within Figure 4, Namely, regions with const
 
 
 <div class="figure">
-<p class="caption">Figure 4: Figure 4: Beer to wine consumption ratio, regional comparisons</p><img src="{{< blogdown/postref >}}index_files/figure-html/beer-wine-1.png" alt="Figure 4: Beer to wine consumption ratio, regional comparisons" width="672" /></div>
+<p class="caption">Figure 4: Figure 4: Beer to wine consumption ratio, regional comparisons</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/beer-wine-1.png" alt="Figure 4: Beer to wine consumption ratio, regional comparisons" width="672" /></div>
 
 
 ## Here for the right Riesling - A clustered apporach to identifying sub-groups 
@@ -177,7 +182,7 @@ Each group of regions per capita alcohol consumption patterns are nuanced but th
 
 
 <div class="figure">
-<p class="caption">Figure 5: Figure 5: Cluster beer to wine comparisons, over time</p><img src="{{< blogdown/postref >}}index_files/figure-html/cluster-line-1.png" alt="Figure 5: Cluster beer to wine comparisons, over time" width="672" /></div>
+<p class="caption">Figure 5: Figure 5: Cluster beer to wine comparisons, over time</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/cluster-line-1.png" alt="Figure 5: Cluster beer to wine comparisons, over time" width="672" /></div>
 
 
 These trends are more easily interpreted from Figure 5. Where group 3's beer to wine ratio is the most similar to Saint Petersburg beer to wine consumption ratio. This is because both Saint Petersburg is within Group 3 and contains 12 other regions with a similar beer to wine consumption pattern.
@@ -188,14 +193,14 @@ The remaining regions - Ivanovo, Kaliningrad, Kaluga, Kursk, Lipetsk, Orenburg, 
 
         
 <div class="figure">
-<p class="caption">Figure 6: Figure 6: A apaghetti chart of cluster 3, beer to wine consumption ratio</p><img src="{{< blogdown/postref >}}index_files/figure-html/cluster-compare-1.png" alt="Figure 6: A apaghetti chart of cluster 3, beer to wine consumption ratio" width="90%" /></div>
+<p class="caption">Figure 6: Figure 6: A apaghetti chart of cluster 3, beer to wine consumption ratio</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/cluster-compare-1.png" alt="Figure 6: A apaghetti chart of cluster 3, beer to wine consumption ratio" width="90%" /></div>
 
 
 Figure 7 shows beer (LHS) and wine (RHS) per capita consumption over time. This shows that Cluster 3's aggregate beer and wine consumption trend looks similar to that of Saint Petersburg consumption patterns in Figure 3. Giving more confidence that the clustering method has performed the task well. 
 
 
 <div class="figure">
-<p class="caption">Figure 7: Figure 7: Beer and wine consumption, compared by cluster</p><img src="{{< blogdown/postref >}}index_files/figure-html/group-beer-wine-1.png" alt="Figure 7: Beer and wine consumption, compared by cluster" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/group-beer-wine-2.png" alt="Figure 7: Beer and wine consumption, compared by cluster" width="50%" /></div>
+<p class="caption">Figure 7: Figure 7: Beer and wine consumption, compared by cluster</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/group-beer-wine-1.png" alt="Figure 7: Beer and wine consumption, compared by cluster" width="50%" /><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/group-beer-wine-2.png" alt="Figure 7: Beer and wine consumption, compared by cluster" width="50%" /></div>
 
 
 
@@ -344,6 +349,6 @@ Finally, and most importantly, this analysis should be consider alongside other 
 
 
 <div class="figure">
-<p class="caption">Figure 8: Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot</p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" alt="Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot" width="50%" /><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-2.png" alt="Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot" width="50%" /></div>
+<p class="caption">Figure 8: Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot</p><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/unnamed-chunk-3-1.png" alt="Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot" width="50%" /><img src="/project/Wine-Comp/Wine-Comp_files/figure-html/unnamed-chunk-3-2.png" alt="Figure 1 Annex: Elbow (LHS) and Silhouette (RHS) plot" width="50%" /></div>
 
 
