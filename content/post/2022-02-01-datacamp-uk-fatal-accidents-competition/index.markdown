@@ -1,5 +1,5 @@
 ---
-title: Datacamp UK fatal accidents competition
+title: Exploring UK's Fatal Traffic Accidents
 author: Samuel Verevis
 date: '2022-02-01'
 slug: datacamp-uk-fatal-accidents-competition
@@ -15,6 +15,11 @@ image:
   focal_point: 'Left'
   preview_only: yes
 projects: []
+links:
+ - icon_pack: custom
+    icon: 
+    name: datacamp-brand
+    url: https://app.datacamp.com/workspace/w/39b1c5ff-f516-4e84-af83-04d8ea361642 
 ---
 
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>

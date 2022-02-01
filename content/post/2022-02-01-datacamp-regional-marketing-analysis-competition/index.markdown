@@ -1,5 +1,5 @@
 ---
-title: DataCamp Regional Marketing Analysis Competition
+title: Hakuna Moscato. It means drink wine - A targeted approach to regional wine promotions
 author: Samuel Verevis
 date: '2022-02-01'
 slug: datacamp-regional-marketing-anlaysis-competition
