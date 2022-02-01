@@ -19,7 +19,7 @@ links:
   - icon_pack: custom
     icon: assets/media/icons/brands/datacamp-brand
     name: Datacamp
-    url: 'https://app.datacamp.com/learn/competitions/russian-alcohol-promotions'
+    url: 'https://app.datacamp.com/workspace/w/9fe41f5d-25aa-44cf-9046-11c7aba12587'
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
 <link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
