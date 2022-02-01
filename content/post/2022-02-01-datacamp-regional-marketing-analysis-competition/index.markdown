@@ -15,6 +15,11 @@ image:
   focal_point: 'Left'
   preview_only: yes
 projects: []
+links:
+ - icon_pack: custom
+    icon: 
+    name: datacamp-brand
+    url: https://app.datacamp.com/learn/competitions/russian-alcohol-promotions
 ---
 <script src="{{< blogdown/postref >}}index_files/kePrint/kePrint.js"></script>
 <link href="{{< blogdown/postref >}}index_files/lightable/lightable.css" rel="stylesheet" />
