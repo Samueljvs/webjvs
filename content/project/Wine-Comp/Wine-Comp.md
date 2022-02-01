@@ -10,7 +10,7 @@ lastmod: '2022-02-01T11:56:11+13:00'
 image:
   placement: 1
   caption: ''
-  focal_point: "Right"
+  focal_point: Smart
 links:
   - icon_pack: custom
     icon: assets/media/icons/datacamp-brand
