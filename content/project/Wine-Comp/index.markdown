@@ -2,7 +2,6 @@
 title: Hakuna Moscato. It means drink wine - A targeted approach to regional wine promotions
 author: ''
 date: '2022-02-02'
-slug: hi-hugo
 categories: ["R"]
 tags: ["Rmarkdown", "Cluster Analysis", "Marketing Insights"]
 subtitle: ''
