@@ -4,15 +4,16 @@ author: Samuel Verevis
 date: '2022-02-01'
 slug: datacamp-regional-marketing-anlaysis-competition
 categories: []
-tags: []
+tags: ["R", "Machine Learning"]
 subtitle: ''
-summary: ''
+summary: 'A Datacamp Competition, using unsupervised Machine Learning to identify the 10 next best regions to target for wine promotions in Russia. I won second prize 🥈 '
 authors: []
 lastmod: '2022-02-01T15:10:08+13:00'
 featured: no
 image:
+  placement: 1
   caption: ''
-  focal_point: ''
+  focal_point: 'Left'
   preview_only: no
 projects: []
 ---
