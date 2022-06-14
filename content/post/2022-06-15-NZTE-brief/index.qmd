@@ -2,7 +2,7 @@
 title: Meaningful engagement on *MyNZTE*
 author: "Sam Verevis"
 format: 
-  html:
+  hugo:
     code-fold: true
     code-tools: true
 execute:
@@ -47,9 +47,10 @@ always_allow_html: true
 
 ## Establish  file path for project
 ##
-  here::i_am(path = "Programmes/index.qmd")
-  library(here)
+  # here::i_am(path = "Programmes/index.qmd")
+  # library(here)
 
+setwd("C:/R-Work/webjvs/content/post/2022-06-15-NZTE-brief")
 
 ## Some house keeping
 ##
@@ -70,7 +71,7 @@ always_allow_html: true
 
   ## Import dataset
   ##
-    usage_df <- read_xlsx(here("Data_Raw", "myNZTE usage_Feb_Aug2021.xlsx"), sheet = 2) |> 
+    usage_df <- read_xlsx("Data_Raw/myNZTE usage_Feb_Aug2021.xlsx", sheet = 2) |> 
                     clean_names() |> 
                     select(-c(minutes_to_view, document_name, format, browser, 
                               document_id, operating_system, published_at)) |> 
