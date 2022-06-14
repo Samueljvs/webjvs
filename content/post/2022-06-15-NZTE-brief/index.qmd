@@ -3,15 +3,15 @@ title: Meaningful engagement on MyNZTE
 author: "Sam Verevis"
 format: 
   hugo:
-    code-fold: true
-    code-tools: true
+    includes:
+      in_header: header.html
 execute:
   message: false
   warning: false
   echo: false
 theme: bootstrap.css
 always_allow_html: true
-summary: 'A highlevel overview of MyNZTE  (project based breif)'
+summary: 'A highlevel overview of MyNZTE (a project based breif)'
 
 ---
 
