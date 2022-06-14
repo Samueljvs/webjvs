@@ -367,7 +367,7 @@ ggplot(repeat_users |>
 
 How customers spend their time on the platform reveals where they find the most value-add on the website. From a business perspective this is important feature that will help guid future platform upgrades, content prioritisation, and maintenance efforts. 
 
-The **Discover** function has the largest number of hits, just shy of 20,000 (making up 33% of total hits), which is true for both the engaged and focus groups (see @fig-action). This is followed by **Session** (of 11,000 hits), **Home** (of 7,100 hits), and then **Attend** (of 6,900 hits). Aside from logging in, customers across both groups tend to view articles the most (15% of total user activity), scroll the home landing (15%), scroll the discover landing (11%), and the attend landing page (7%). Suggesting that this is where they glean the most useful content from the *MyNZTW* platform and shows where they're likely to spend most of their time.
+The **Discover** function has the largest number of hits, just shy of 20,000 (making up 33% of total hits), which is true for both the engaged and focus groups (see Figure 6). This is followed by **Session** (of 11,000 hits), **Home** (of 7,100 hits), and then **Attend** (of 6,900 hits). Aside from logging in, customers across both groups tend to view articles the most (15% of total user activity), scroll the home landing (15%), scroll the discover landing (11%), and the attend landing page (7%). Suggesting that this is where they glean the most useful content from the *MyNZTW* platform and shows where they're likely to spend most of their time.
 
 ```{r}
 #| label: fig-action
@@ -431,7 +431,7 @@ usage_df |>
 
 ##  What are Customers looking for?
 
-Search queries can provide a useful insight into what customers are thinking. @fig-word sets out the most frequent word occurrences across searches between the two customer segments. In this case, Amazon, market, Australia, export, and China are some of the most frequently reoccurring word searches that occur across both groups. However, these are some interesting differences between the two groups. Where the focus groups has more search terms centered around, growth, marketing, strategy and eCommerce. The engage group has frequent search terms such as, Manuka honey, business, potential, sustainability. 
+Search queries can provide a useful insight into what customers are thinking. Figure 8 & 9 sets out the most frequent word occurrences across searches between the two customer segments. In this case, Amazon, market, Australia, export, and China are some of the most frequently reoccurring word searches that occur across both groups. However, these are some interesting differences between the two groups. Where the focus groups has more search terms centered around, growth, marketing, strategy and eCommerce. The engage group has frequent search terms such as, Manuka honey, business, potential, sustainability. 
 
 ```{r}
 #| label: fig-word
@@ -477,7 +477,7 @@ ggplot(aes(x = fct_reorder(word, freq), y = freq, fill = freq)) +
 
 ```
 
-We can also visualise search terms via word clouds, to produce something more evocative. @fig-wordcloulds is a combination of word searches across both groups.
+We can also visualise search terms via word clouds, to produce something more evocative. The below word cloud is a combination of word searches across both groups.
 
 ```{r}
 #| label: fig-wordcloulds
