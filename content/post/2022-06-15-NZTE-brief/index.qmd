@@ -9,8 +9,9 @@ execute:
   message: false
   warning: false
   echo: false
-theme: minty
+theme: bootstrap.css
 always_allow_html: true
+summary: 'A highlevel overview of MyNZTE  (project based breif)'
 
 ---
 
