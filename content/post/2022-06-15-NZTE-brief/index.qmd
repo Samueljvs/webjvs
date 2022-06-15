@@ -9,7 +9,7 @@ execute:
   message: false
   warning: false
   echo: false
-theme: bootstrap.css
+theme: override.css
 always_allow_html: true
 summary: 'A highlevel overview of MyNZTE (a project based breif)'
 date: '2022-06-15'
