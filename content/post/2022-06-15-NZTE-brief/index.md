@@ -16,11 +16,6 @@ date: '2022-06-15'
 
 ---
 
-Meaningful engagement on MyNZTE
-================
-Sam Verevis
-2022-06-15
-
 <script src="index_files\libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
 <link href="index_files\libs/wordcloud2-0.0.1/wordcloud.css" rel="stylesheet" />
 <script src="index_files\libs/wordcloud2-0.0.1/wordcloud2-all.js"></script>
@@ -159,14 +154,14 @@ prioritisation, and maintenance efforts.
 
 The **Discover** function has the largest number of hits, just shy of
 20,000 (making up 33% of total hits), which is true for both the engaged
-and focus groups (see Figure 6). This is followed by **Session** (of
+and focus groups (see [Figure 6](#fig-action-1)). This is followed by **Session** (of
 11,000 hits), **Home** (of 7,100 hits), and then **Attend** (of 6,900
 hits). Aside from logging in, customers across both groups tend to view
 articles the most (15% of total user activity), scroll the home landing
 (15%), scroll the discover landing (11%), and the attend landing page
 (7%). Suggesting that this is where they glean the most useful content
 from the *MyNZTW* platform and shows where they're likely to spend most
-of their time.
+of their time ( [Figure 7](#fig-action-2) ).
 
 <figure>
 <img src="index_files/figure-gfm/fig-action-1.png" id="fig-action-1"
@@ -187,7 +182,7 @@ Where do customers often natigate to
 ## What are Customers looking for?
 
 Search queries can provide a useful insight into what customers are
-thinking. Figure 8 & 9 sets out the most frequent word occurrences
+thinking. [Figure 8](#fig-word-1) & [Figure 9](#fig-word-2) sets out the most frequent word occurrences
 across searches between the two customer segments. In this case, Amazon,
 market, Australia, export, and China are some of the most frequently
 reoccurring word searches that occur across both groups. However, these
